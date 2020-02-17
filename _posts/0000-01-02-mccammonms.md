@@ -4,3 +4,6 @@ title: "Welcome to our second slide!"
 ---
 Your text
 Use the left arrow to go back!
+
+[] Check it off that you like it!
+
